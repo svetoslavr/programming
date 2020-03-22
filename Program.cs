@@ -4,43 +4,41 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp75
+namespace ConsoleApp7
 {
     class Program
     {
         static void Main(string[] args)
         {
             string text = Console.ReadLine();
-            int jump = int.Parse(Console.ReadLine());
-            jump++;
-            const char Search = 'p';
-            bool hasMatch = false;
-
-            for (int i = 0; i < text.Length; i++)
+            string[] input = new string[text.Count()];
+            int b = 0;
+            foreach(var item in text)
             {
-                if (text[i] == Search)
-                {
-                    hasMatch = true;
+                input[b] = item.ToString();
+                b++;
+            }
+            string duma = "";
+            for(int i =3; i< text.Count(); i++)
+            {
+                duma += input[i];
+            }
+            string duma2 = "";
+            for (int i = 0; i < text.Count()-3; i++)
+            {
+                duma2 += input[i];
+            }
+          
+            string duma3 = "";
 
-                    int endIndex = jump;
-
-
-                    if (endIndex > text.Length)
-                    {
-                        endIndex = text.Length;
-                    }
-
-                    string matchedString = text.Substring(i, endIndex);
-                    Console.WriteLine(matchedString);
-                    i += jump;
-                }
+            for (int i = 3; i < text.Count()-3; i++)
+            {
+                duma3 += input[i];
             }
 
-            if (!hasMatch)
-            {
-                Console.WriteLine("no");
-
-            }
+            Console.WriteLine(duma);
+            Console.WriteLine(duma2);
+            Console.WriteLine(duma3);
             Console.ReadLine();
         }
     }
