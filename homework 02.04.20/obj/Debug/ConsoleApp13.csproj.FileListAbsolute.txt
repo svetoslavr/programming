@@ -1,0 +1,6 @@
+C:\Users\ivail\source\repos\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\ivail\source\repos\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\ivail\source\repos\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\ivail\source\repos\ConsoleApp13\obj\Debug\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\ivail\source\repos\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\ivail\source\repos\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
