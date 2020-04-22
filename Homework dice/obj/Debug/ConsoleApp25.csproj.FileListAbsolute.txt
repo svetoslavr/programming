@@ -1,0 +1,6 @@
+C:\Users\ivail\source\repos\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\ivail\source\repos\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\ivail\source\repos\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\ivail\source\repos\ConsoleApp25\obj\Debug\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\ivail\source\repos\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\ivail\source\repos\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
