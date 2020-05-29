@@ -1,0 +1,6 @@
+C:\Users\ivail\source\repos\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\ivail\source\repos\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\ivail\source\repos\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\ivail\source\repos\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+C:\Users\ivail\source\repos\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\ivail\source\repos\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
